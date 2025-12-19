@@ -1,0 +1,898 @@
+# ポジティブな言葉コレクション
+
+## 日本語のポジティブな言葉・フレーズ
+
+### 短いポジティブワード
+- あなたは素晴らしい
+- 今この瞬間を楽しもう
+- 幸運が訪れる
+- できる
+- ありがとう
+- 大丈夫
+- やれば出来る
+- 笑顔で過ごそう
+- 前向きに
+- チャレンジしよう
+- 成功する
+- 愛される
+- 幸せ
+- 感謝
+- 希望
+- 心が安らぐ
+- リラックス
+- 落ち着こう
+- やる気が出る
+- 元気が出る
+- 明るく
+- 楽しく
+- 優しく
+- 強く
+- 自信を持とう
+- 今を生きる
+- 最高の一日
+- ありのまま
+- 大丈夫
+- 心配ない
+- うまくいく
+- 信じよう
+- 輝いている
+- 素敵
+- 美しい
+- 愛してる
+- 応援してる
+- 頑張って
+- ファイト
+- 負けないで
+- 勇気を出して
+- 一歩ずつ
+- 焦らないで
+- ゆっくりでいい
+- 自分らしく
+- 自分を信じて
+- 自分を大切に
+- 自分を愛して
+- 今日も良い日
+- 明日はもっと良くなる
+- きっと大丈夫
+- 必ずできる
+- あなたならできる
+- 可能性は無限
+- 夢は叶う
+- 奇跡は起こる
+- 運が良い
+- ツイてる
+- ラッキー
+- ハッピー
+- ピース
+- ラブ
+- スマイル
+- ジョイ
+- ワンダフル
+
+### 励ましと勇気の言葉
+- あなたはあなたであればいい
+- 自分なんかダメだなんて思わない
+- 他人と比べなくていい
+- 自分の良さに気づこう
+- 幸せだと思えることを続けよう
+- 明けない夜はない
+- やまない雨はない
+- 良いことが必ずやってくる
+- 自分で自分を褒めてあげよう
+- 今日がよくなかっただけ
+- 生まれたことに感謝
+- 自分らしい人生を歩もう
+- その人にしか出せない輝きがある
+- 自分を信じてあげよう
+- 自分が持っているものを大切に
+- 小さな幸せを実感しよう
+- 自分のやりたいようにやってみよう
+- いくつになっても可能性は無限
+- 過去にとらわれすぎない
+- 前を向いて進もう
+- 自分の魅力や才能に自信を持とう
+- 身体をいたわる時間を作ろう
+- 当たり前の日々の大切さを感じよう
+- 普通の幸せのありがたさ
+- 前に進んでみよう
+- 新しい景色が見えてくる
+- ぶれない芯を持とう
+- 幸せは周りにあふれている
+- 助けてくれる人が近くにいる
+- 自分らしさを見失わない
+- 一人ではない
+- 支え合って生きている
+- 心を整える
+- 自分を好きになる
+- 心豊かに生きる
+- 希望を持ち続ける
+- ありのままの自分を受け入れる
+- ありのままの自分を愛する
+- 内側から美しく輝く
+
+### 癒しの言葉
+- 一日の始まりを丁寧に
+- 本当の自分を見つける
+- 楽しいことに想いをはせる
+- 感謝の気持ちを持つ
+- 幸せを実感する
+- 心を磨く
+- きっと良くなる
+- 生きているだけで価値がある
+- 前向きに気持ちを向上させる
+- 心が軽くなる
+- 自分の心のコップを満たす
+- 深呼吸しよう
+- 肩の力を抜こう
+- 今日生きていることに感謝
+- すべて上手くいっている
+- 自分は運がいい
+- 今日もいい日だった
+- おはよう、素敵な一日を
+- おやすみ、良い夢を
+- 今日もお疲れ様
+- よく頑張ったね
+- えらいね
+- すごいね
+- さすがだね
+- 素晴らしい
+- 最高
+- 完璧
+- パーフェクト
+- グッド
+- ナイス
+- エクセレント
+- ブラボー
+- アメージング
+
+## 英語のポジティブワード
+
+### 短いポジティブワード
+- Happy
+- Positive
+- Believe
+- Dream
+- Smile
+- You can do it
+- Keep going
+- Be yourself
+- Love yourself
+- Amazing
+- Wonderful
+- Beautiful
+- Brilliant
+- Fantastic
+- Fabulous
+- Awesome
+- Great
+- Good
+- Nice
+- Perfect
+- Excellent
+- Outstanding
+- Superb
+- Magnificent
+- Marvelous
+- Splendid
+- Terrific
+- Incredible
+- Extraordinary
+- Phenomenal
+- Spectacular
+- Stunning
+- Breathtaking
+- Gorgeous
+- Lovely
+- Charming
+- Delightful
+- Pleasant
+- Cheerful
+- Joyful
+- Blissful
+- Blessed
+- Grateful
+- Thankful
+- Hopeful
+- Optimistic
+- Confident
+- Brave
+- Strong
+- Powerful
+- Capable
+- Talented
+- Gifted
+- Creative
+- Innovative
+- Inspiring
+- Motivated
+- Determined
+- Focused
+- Dedicated
+- Passionate
+- Enthusiastic
+- Energetic
+- Vibrant
+- Radiant
+- Glowing
+- Shining
+- Sparkling
+- Dazzling
+- Brilliant
+- Bright
+- Luminous
+- Warm
+- Kind
+- Gentle
+- Caring
+- Loving
+- Compassionate
+- Generous
+- Thoughtful
+- Considerate
+- Understanding
+- Patient
+- Peaceful
+- Calm
+- Serene
+- Tranquil
+- Relaxed
+- Comfortable
+- Cozy
+- Safe
+- Secure
+- Protected
+- Supported
+- Encouraged
+- Empowered
+- Uplifted
+- Elevated
+- Enhanced
+- Improved
+- Better
+- Best
+- Superior
+- Premium
+- Quality
+- Valuable
+- Precious
+- Treasured
+- Cherished
+- Beloved
+- Adored
+- Admired
+- Respected
+- Honored
+- Celebrated
+- Successful
+- Victorious
+- Triumphant
+- Winning
+- Champion
+- Leader
+- Pioneer
+- Trailblazer
+- Visionary
+- Wise
+- Smart
+- Intelligent
+- Clever
+- Brilliant
+- Genius
+- Skilled
+- Expert
+- Master
+- Professional
+- Accomplished
+- Achieved
+- Fulfilled
+- Satisfied
+- Content
+- Happy
+- Joyous
+- Delighted
+- Pleased
+- Thrilled
+- Excited
+- Eager
+- Ready
+- Prepared
+- Equipped
+- Able
+- Capable
+- Competent
+- Qualified
+- Worthy
+- Deserving
+- Enough
+- Sufficient
+- Abundant
+- Plentiful
+- Rich
+- Wealthy
+- Prosperous
+- Fortunate
+- Lucky
+- Blessed
+- Favored
+- Chosen
+- Special
+- Unique
+- Original
+- Authentic
+- Genuine
+- Real
+- True
+- Honest
+- Sincere
+- Pure
+- Clean
+- Clear
+- Fresh
+- New
+- Young
+- Alive
+- Vital
+- Healthy
+- Fit
+- Well
+- Whole
+- Complete
+- Perfect
+- Flawless
+- Ideal
+- Ultimate
+- Supreme
+- Divine
+- Heavenly
+- Angelic
+- Magical
+- Miraculous
+- Wondrous
+- Glorious
+- Majestic
+- Royal
+- Noble
+- Elegant
+- Graceful
+- Refined
+- Sophisticated
+- Classy
+- Stylish
+- Fashionable
+- Trendy
+- Modern
+- Contemporary
+- Advanced
+- Progressive
+- Forward
+- Onward
+- Upward
+- Rising
+- Growing
+- Expanding
+- Developing
+- Evolving
+- Transforming
+- Changing
+- Improving
+- Advancing
+- Progressing
+- Succeeding
+- Thriving
+- Flourishing
+- Blooming
+- Blossoming
+- Flowering
+- Budding
+- Emerging
+- Awakening
+- Enlightened
+- Aware
+- Conscious
+- Mindful
+- Present
+- Here
+- Now
+- Today
+- Forever
+- Always
+- Eternal
+- Infinite
+- Limitless
+- Boundless
+- Endless
+- Timeless
+- Ageless
+- Immortal
+- Everlasting
+- Permanent
+- Lasting
+- Enduring
+- Resilient
+- Tough
+- Sturdy
+- Solid
+- Stable
+- Steady
+- Reliable
+- Dependable
+- Trustworthy
+- Faithful
+- Loyal
+- Devoted
+- Committed
+- Dedicated
+- True
+- Constant
+- Consistent
+- Persistent
+- Persevering
+- Tenacious
+- Determined
+- Resolute
+- Firm
+- Fixed
+- Set
+- Established
+- Founded
+- Grounded
+- Rooted
+- Anchored
+- Centered
+- Balanced
+- Harmonious
+- Unified
+- Connected
+- Linked
+- Bonded
+- Joined
+- United
+- Together
+- One
+- Whole
+- All
+- Everything
+- Everywhere
+- Universal
+- Global
+- Worldwide
+- International
+- Cosmic
+- Galactic
+- Stellar
+- Solar
+- Lunar
+- Celestial
+- Heavenly
+- Ethereal
+- Spiritual
+- Sacred
+- Holy
+- Blessed
+- Sanctified
+- Consecrated
+- Hallowed
+- Revered
+- Venerated
+- Worshipped
+- Praised
+- Glorified
+- Exalted
+- Elevated
+- Lifted
+- Raised
+- Heightened
+- Increased
+- Amplified
+- Magnified
+- Multiplied
+- Doubled
+- Tripled
+- Quadrupled
+- Maximized
+- Optimized
+- Enhanced
+- Enriched
+- Improved
+- Upgraded
+- Updated
+- Renewed
+- Refreshed
+- Revived
+- Restored
+- Recovered
+- Healed
+- Cured
+- Fixed
+- Repaired
+- Mended
+- Patched
+- Sealed
+- Closed
+- Finished
+- Done
+- Completed
+- Accomplished
+- Achieved
+- Attained
+- Reached
+- Arrived
+- Made it
+- Got it
+- Won
+- Victory
+- Success
+- Win
+- Triumph
+- Achievement
+- Accomplishment
+- Milestone
+- Goal
+- Target
+- Aim
+- Purpose
+- Mission
+- Vision
+- Dream
+- Aspiration
+- Ambition
+- Desire
+- Wish
+- Hope
+- Faith
+- Trust
+- Confidence
+- Belief
+- Conviction
+- Certainty
+- Assurance
+- Guarantee
+- Promise
+- Commitment
+- Pledge
+- Vow
+- Oath
+- Word
+- Bond
+- Contract
+- Agreement
+- Deal
+- Arrangement
+- Plan
+- Strategy
+- Tactic
+- Approach
+- Method
+- Way
+- Path
+- Road
+- Route
+- Journey
+- Adventure
+- Quest
+- Mission
+- Expedition
+- Voyage
+- Trip
+- Travel
+- Explore
+- Discover
+- Find
+- Seek
+- Search
+- Look
+- See
+- View
+- Watch
+- Observe
+- Notice
+- Recognize
+- Identify
+- Know
+- Understand
+- Comprehend
+- Grasp
+- Get
+- Realize
+- Appreciate
+- Value
+- Treasure
+- Prize
+- Cherish
+- Love
+- Adore
+- Worship
+- Idolize
+- Revere
+- Respect
+- Honor
+- Esteem
+- Admire
+- Appreciate
+- Thank
+- Gratitude
+- Thanks
+- Appreciation
+- Recognition
+- Acknowledgment
+- Credit
+- Praise
+- Compliment
+- Flattery
+- Tribute
+- Homage
+- Salute
+- Toast
+- Cheers
+- Congratulations
+- Well done
+- Good job
+- Nice work
+- Great effort
+- Excellent performance
+- Outstanding achievement
+- Remarkable success
+- Incredible accomplishment
+- Amazing result
+- Wonderful outcome
+- Beautiful creation
+- Brilliant idea
+- Genius concept
+- Smart thinking
+- Wise decision
+- Good choice
+- Right move
+- Perfect timing
+- Ideal situation
+- Best scenario
+- Optimal condition
+- Prime opportunity
+- Golden chance
+- Lucky break
+- Fortunate event
+- Blessed moment
+- Sacred time
+- Holy instant
+- Divine second
+- Magical minute
+- Miraculous hour
+- Wondrous day
+- Glorious week
+- Majestic month
+- Royal year
+- Noble decade
+- Elegant century
+- Graceful millennium
+- Refined eternity
+- Sophisticated infinity
+- Classy forever
+- Stylish always
+- Fashionable constantly
+- Trendy continually
+- Modern perpetually
+- Contemporary endlessly
+- Advanced eternally
+- Progressive infinitely
+- Forward boundlessly
+- Onward limitlessly
+- Upward timelessly
+- Rising agelessly
+- Growing immortally
+- Expanding everlastingly
+- Developing permanently
+- Evolving lastingly
+- Transforming enduringly
+- Changing resiliently
+
+### フレーズ
+- You've got this
+- I'm here for you
+- You are not alone
+- One step at a time
+- You are enough
+- Believe in yourself
+- Trust the process
+- Everything happens for a reason
+- This too shall pass
+- You are loved
+- You are worthy
+- You are beautiful
+- You are strong
+- You are brave
+- You are capable
+- You are amazing
+- You are wonderful
+- You are special
+- You are unique
+- You are important
+- You matter
+- You are valued
+- You are appreciated
+- You are respected
+- You are honored
+- You are celebrated
+- You are a gift
+- You are a blessing
+- You are a miracle
+- You are a treasure
+- You are precious
+- You are priceless
+- You are irreplaceable
+- You are one of a kind
+- You are extraordinary
+- You are phenomenal
+- You are spectacular
+- You are stunning
+- You are breathtaking
+- You are gorgeous
+- You are lovely
+- You are charming
+- You are delightful
+- You are pleasant
+- You are cheerful
+- You are joyful
+- You are happy
+- You are blessed
+- You are grateful
+- You are thankful
+- You are hopeful
+- You are optimistic
+- You are confident
+- You are powerful
+- You are talented
+- You are gifted
+- You are creative
+- You are innovative
+- You are inspiring
+- You are motivated
+- You are determined
+- You are focused
+- You are dedicated
+- You are passionate
+- You are enthusiastic
+- You are energetic
+- You are vibrant
+- You are radiant
+- You are glowing
+- You are shining
+- You are sparkling
+- You are dazzling
+- You are brilliant
+- You are bright
+- You are luminous
+- You are warm
+- You are kind
+- You are gentle
+- You are caring
+- You are loving
+- You are compassionate
+- You are generous
+- You are thoughtful
+- You are considerate
+- You are understanding
+- You are patient
+- You are peaceful
+- You are calm
+- You are serene
+- You are tranquil
+- You are relaxed
+- You are comfortable
+- You are safe
+- You are secure
+- You are protected
+- You are supported
+- You are encouraged
+- You are empowered
+- You are uplifted
+- You are elevated
+- You are enhanced
+- You are improved
+- You are better
+- You are the best
+- You are successful
+- You are victorious
+- You are a champion
+- You are a leader
+- You are a winner
+- You are accomplished
+- You are fulfilled
+- You are satisfied
+- You are content
+- You are complete
+- You are whole
+- You are perfect
+- You are divine
+- You are magical
+- You are miraculous
+- You are glorious
+- You are majestic
+- You are elegant
+- You are graceful
+- You are beautiful inside and out
+- You light up the room
+- You make a difference
+- You inspire others
+- You bring joy
+- You spread love
+- You create beauty
+- You make the world better
+- Your smile is contagious
+- Your energy is amazing
+- Your spirit is beautiful
+- Your heart is pure
+- Your soul is bright
+- Your mind is brilliant
+- Your thoughts are powerful
+- Your words are meaningful
+- Your actions matter
+- Your presence is a gift
+- Your existence is a blessing
+- Your life has purpose
+- Your dreams are valid
+- Your goals are achievable
+- Your future is bright
+- Your potential is limitless
+- Your possibilities are endless
+- Your journey is beautiful
+- Your story is inspiring
+- Your path is unique
+- Your way is perfect
+- Your time is now
+- Your moment has come
+- Your day will come
+- Your turn is coming
+- Your chance is here
+- Your opportunity awaits
+- Your destiny calls
+- Your purpose beckons
+- Your mission awaits
+- Your vision is clear
+- Your dream is alive
+- Your hope is real
+- Your faith is strong
+- Your trust is wise
+- Your confidence is justified
+- Your belief is powerful
+- Your conviction is solid
+- Your certainty is grounded
+- Your assurance is valid
+- Today is a new day
+- Tomorrow is full of possibilities
+- The best is yet to come
+- Great things are coming
+- Miracles happen every day
+- Dreams do come true
+- Anything is possible
+- Everything is possible
+- Nothing is impossible
+- The sky is the limit
+- Reach for the stars
+- Shoot for the moon
+- Aim high
+- Think big
+- Go far
+- Rise up
+- Stand tall
+- Walk proud
+- Live fully
+- Love deeply
+- Laugh often
+- Smile always
+- Shine bright
+- Glow radiantly
+- Sparkle brilliantly
+- Dazzle constantly
+- Illuminate perpetually
+- Radiate endlessly
+- Beam eternally
+- Gleam infinitely
+- Glisten boundlessly
+- Shimmer limitlessly
+- Twinkle timelessly
+- Flicker agelessly
+- Flash immortally
+- Blaze everlastingly
+- Burn permanently
+- Ignite lastingly
+- Light up enduringly
+- Brighten resiliently
