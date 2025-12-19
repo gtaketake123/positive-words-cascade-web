@@ -19,11 +19,12 @@
 
 .falling-word {
   position: fixed;
-  font-weight: bold;
+  font-weight: 600; /* フォントを少し細く */
   cursor: pointer;
   user-select: none;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15); /* 影をより自然に */
   transition: transform 0.2s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 .falling-word:hover {
@@ -58,19 +59,21 @@
 
 .control-button {
   position: fixed;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px; /* 角丸に変更 */
   border: none;
-  font-size: 24px;
+  font-size: 20px;
   cursor: pointer;
-  background: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.9); /* より不透明に */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 影を柔らかく */
   transition: all 0.2s ease;
   z-index: 100;
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #1c1e21; /* アイコンの色 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* フォント変更 */
 }
 
 .control-button:hover {
@@ -93,13 +96,14 @@
   position: fixed;
   right: 0;
   top: 0;
-  width: 300px;
+  width: min(100%, 360px); /* スマホでの見やすさを考慮 */
   height: 100vh;
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  background: #f0f2f5; /* 背景色を薄いグレーに */
+  box-shadow: -4px 0 15px rgba(0, 0, 0, 0.1);
   z-index: 1000;
   display: flex;
   flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   animation: slideIn 0.3s ease;
 }
 
@@ -116,17 +120,20 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
-  border-bottom: 1px solid #eee;
-  position: sticky;
+  padding: 16px 20px;
+  background: white;
+  border-bottom: 1px solid #ddd;
+  position: sticky; /* 固定表示 */
   top: 0;
-  background: rgba(255, 255, 255, 0.95);
   z-index: 1002;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .settings-header h2 {
-  font-size: 20px;
-  color: #333;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1c1e21;
 }
 
 .settings-header button {
@@ -134,7 +141,8 @@
   border: none;
   font-size: 24px;
   cursor: pointer;
-  color: #666;
+  color: #1c1e21;
+  padding: 0;
   transition: color 0.2s ease;
   z-index: 1001;
 }
@@ -146,18 +154,24 @@
 .settings-content {
   flex: 1;
   overflow-y: auto;
-  padding: 20px;
+  padding: 0; /* paddingを個々のアイテムに移動 */
+  gap: 1px; /* 項目間の隙間を小さく */
 }
 
 .setting-item {
-  margin-bottom: 20px;
+  padding: 12px 20px;
+  background: white;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .setting-item label {
   display: block;
-  margin-bottom: 8px;
-  font-size: 14px;
-  color: #333;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #1c1e21;
   font-weight: 500;
 }
 
