@@ -46,7 +46,8 @@ export default function App() {
   const [showSettings, setShowSettings] = useState(false);
   const [currentGradient, setCurrentGradient] = useState(GRADIENT_PRESETS[0]);
   const [breathingVisible, setBreathingVisible] = useState(false);
-  const [breathingSpeed, setBreathingSpeed] = useState(4000);
+  const [breathingSpeed, setBreathingSpeed] = useState(10000);
+  const [breathingOpacity, setBreathingOpacity] = useState(70);
   const [breathingSize, setBreathingSize] = useState(80);
   const [breathingColor, setBreathingColor] = useState('#FF69B4');
   const [breathingUseGradient, setBreathingUseGradient] = useState(false);
@@ -172,7 +173,7 @@ export default function App() {
             fontSize: `${word.fontSize}px`,
             color: word.color,
           }}
-          initial={{ y: -100, opacity: 1 }}
+          initial={{ y: -150, opacity: 1 }}
           animate={{ y: window.innerHeight + 100, opacity: 0 }}
           transition={{ duration: word.duration, ease: 'linear' }}
           onAnimationComplete={() => removeWord(word.id)}
@@ -197,6 +198,8 @@ export default function App() {
             top: '50%',
             left: '50%',
             transform: 'translate(-50%, -50%)',
+            opacity: breathingOpacity / 100,
+            zIndex: 10,
           }}
           animate={{ scale: [1, 1.3, 1] }}
           transition={{ duration: breathingSpeed / 1000, repeat: Infinity }}
@@ -279,13 +282,25 @@ export default function App() {
             {breathingVisible && (
               <>
                 <div className="setting-item">
-                  <label>深呼吸速度 ({breathingSpeed}ms)</label>
+                  <label>深呼吸速度 ({(breathingSpeed / 1000).toFixed(1)}秒)</label>
                   <input
                     type="range"
-                    min="2000"
-                    max="8000"
+                    min="10000"
+                    max="30000"
+                    step="1000"
                     value={breathingSpeed}
                     onChange={(e) => setBreathingSpeed(Number(e.target.value))}
+                  />
+                </div>
+
+                <div className="setting-item">
+                  <label>深呼吸透明度 ({breathingOpacity}%)</label>
+                  <input
+                    type="range"
+                    min="0"
+                    max="100"
+                    value={breathingOpacity}
+                    onChange={(e) => setBreathingOpacity(Number(e.target.value))}
                   />
                 </div>
 
