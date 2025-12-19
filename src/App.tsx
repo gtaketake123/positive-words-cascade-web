@@ -52,9 +52,9 @@ export default function App() {
   const [breathingUseGradient, setBreathingUseGradient] = useState(false);
   const [breathingGradientColor2, setBreathingGradientColor2] = useState('#FF1493');
   const [showAudioSpectrum, setShowAudioSpectrum] = useState(false);
-  const [spectrumColor, setSpectrumColor] = useState('#007AFF');
-  const [spectrumUseGradient, setSpectrumUseGradient] = useState(false);
-  const [spectrumGradientColor2, setSpectrumGradientColor2] = useState('#FF1493');
+  // const [spectrumColor, setSpectrumColor] = useState('#007AFF');
+  // const [spectrumUseGradient, setSpectrumUseGradient] = useState(false);
+  // const [spectrumGradientColor2, setSpectrumGradientColor2] = useState('#FF1493');
   const [audioData, setAudioData] = useState<number[]>(new Array(32).fill(0));
   const audioContextRef = useRef<AudioContext | null>(null);
   const analyserRef = useRef<AnalyserNode | null>(null);
@@ -212,9 +212,7 @@ export default function App() {
               className="spectrum-bar"
               style={{
                 height: `${(value / 255) * 100}%`,
-                background: spectrumUseGradient
-                  ? `linear-gradient(to top, ${spectrumColor}, ${spectrumGradientColor2})`
-                  : `hsl(${index * 11.25}, 100%, 50%)`,
+                background: `hsl(${index * 11.25}, 100%, 50%)`,
               }}
             />
           ))}
